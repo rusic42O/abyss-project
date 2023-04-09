@@ -1,0 +1,5 @@
+skladista neka i kao krades razne stvari
+
+da ne moze orobati igraca vise od 1m i svaki igrac se moze robati svaka 2h da se ne spama jedan
+
+event: capture the flag

@@ -1,0 +1,43 @@
+[23:29:26] [WARNING] mysql_connect: no password specified (C:\Users\Stefan\Downloads\Project Abyss\gamemodes\abyss_gm.pwn:4880 -> C:\Users\Stefan\Downloads\Project Abyss\gamemodes\abyss_gm.pwn:4896)
+[00:43:53] [WARNING] mysql_connect: no password specified (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4881 -> F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4897)
+[00:45:14] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9970)
+[00:45:14] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9971)
+[00:45:14] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9972)
+[00:45:14] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9973)
+[00:45:14] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9974)
+[00:45:14] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9975)
+[00:45:14] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9976)
+[00:45:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9970)
+[00:45:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9971)
+[00:45:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9972)
+[00:45:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9973)
+[00:45:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9974)
+[00:45:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9975)
+[00:45:29] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9976)
+[00:56:25] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9970)
+[00:56:25] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9971)
+[00:56:25] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9972)
+[00:56:25] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9973)
+[00:56:25] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9974)
+[00:56:25] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9975)
+[00:56:25] [ERROR] cache_get_value_name_int: invalid row index '0' (number of rows: '0') (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:9976)
+[18:05:06] [WARNING] mysql_connect: no password specified (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4881 -> F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4897)
+[18:05:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:05:14] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:05:18] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:05:22] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:05:44] [WARNING] mysql_connect: no password specified (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4881 -> F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4897)
+[18:05:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:05:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:05:57] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:06:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:06:46] [WARNING] mysql_connect: no password specified (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4881 -> F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4897)
+[18:06:50] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:06:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:06:58] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:07:02] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:08:36] [WARNING] mysql_connect: no password specified (F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4881 -> F:\MP - SAMP Stvarii\SS - SAMP Modovi\Moji Fixovi i Editi\Project Abyss by TRAXX\gamemodes\abyss_gm.pwn:4897)
+[18:08:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:08:44] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:08:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'
+[18:08:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on 'localhost' (10061)'

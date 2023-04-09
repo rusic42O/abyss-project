@@ -1,0 +1,401 @@
+[center][b][img width=550 height=550]https://i.imgur.com/051aez5.png[/img]
+
+[color=#1A94E6]• Owners •[/color]
+X [color=#1A94E6]-[/color] Exzone [color=#1A94E6]-[/color] Saco
+
+[color=#1A94E6]• Scripters •[/color]
+X [color=#1A94E6]-[/color] Lanmi
+
+[color=#1A94E6]• Mappers •[/color]
+X
+
+[color=#1A94E6]• Designer •[/color]
+No-one
+
+[color=#1A94E6]• TeamSpeak3 Manager •[/color]
+Saw
+
+[color=#1A94E6]• Script & Map Credits •[/color]
+Lukenzi - Izvorna skripta ~ Las Vegas Gaming.
+Terziæ - Sistem kreiranja tijela mrtvaca.
+Dimi - Neki sistemi.
+Sikora - Mozak(pomoæ oko kreiranja nekih sistema).
+Kalcor & SA:MP Beta Testers - Official SA:MP Include's.
+Incognito - Streamer Include/Plugin.
+BlueG - MySQL Include/Plugin.
+maddinat0r - MySQL Include/Plugin R41-4 || TeamSpeak3 Connector Include.
+Gammix - Dini2 Include || progress2 Include.
+urShadow - Pawn.CMD Include/Plugin || Pawn.RakNet Include/Plugin.
+Emmet_ - sscanf2 Include/Plugin.
+d0 - mSelection Include.
+RoacH` - flood Include.
+Nexius - Rockstar Map Fix Include.
+Ino42O - Dialog Center Include.
+
+[color=#1A94E6]• Facebook •[/color]
+www.facebook.com/AbyssOGC
+
+[color=#1A94E6]• Portal •[/color]
+www.abyss-samp.com
+
+[color=#1A94E6]• SA:MP •[/color]
+samp.abyss-samp.com
+
+[color=#1A94E6]• TeamSpeak3 •[/color]
+ts3.abyss-samp.com[/b]
+
+
+[table][tr][td][hr][size=15pt][color=#1A94E6][glow=black,2,300][b]Skripta - 69% prikazano[/b][/glow][/color][/size][hr][/td][/tr][/table]
+
+[b][color=#1A94E6]• InGame TextDraw's •[/color]
+Komanda: (/tog hud) - Prikazivanje/Skrivanje TextDraw-ova.
+[img width=880 height=420]https://i.imgur.com/7w8zIoW.png[/img]
+
+[img width=880 height=420]https://i.imgur.com/7w8zIoW.png[/img]
+
+[hr]
+
+[color=#1A94E6]• Registracija & Login •[/color]
+[youtube]https://www.youtube.com/watch?v=KGxnwdOdi5k[/youtube]
+
+[hr]
+
+[color=#1A94E6]• Promoter •[/color]
+Promoter sistem je za igraèe koji reklamiraju server po Facebook-u i drugim društvenim mrežama.
+Promoter ima moguænost teleportovanja, korišæenja premium vozila, i još mnogo toga.
+Promoter se može postati javljanjem Head Promoteru na TeamSpeak-u.
+[img]http://i.imgur.com/D6DRs4X.png?1[/img]
+
+[hr]
+
+[color=#1A94E6]• V(ery) I(mportant) P(layer) •[/color]
+Postoji i obièni VIP sistem koji se sastoji od samo 1 levela.
+VIP igraè ima moguænost teleportovanja, korišæenja premium vozila, i još mnogo toga kao i Promoter.
+Takoðer, VIP igraè dobija bonus uz svaki sat igre od 10.000$ + kada završi turu posla dobija dodatnih 50% od plate.
+VIP se postaje doniranjem odreðene sume novca, a donira se po danu. (/donacije)
+[img]http://i.imgur.com/LfZjnjs.png?3[/img]
+
+[hr]
+
+[color=#1A94E6]• Level •[/color]
+[youtube]https://www.youtube.com/watch?v=oblfP08fiXY[/youtube]
+
+[hr]
+
+[color=#1A94E6]• Laptop - Kupovina vozila, Deep Web, CS:GO Betting, Facebook, Oglasnik •[/color]
+[youtube][/youtube]
+
+[hr]
+
+[i]Na serveru možete pljaèkati: banke, zlataru, galeriju, bankomat, zlatomat, trafiku, market.[/i]
+
+[color=#1A94E6]• Pljaèke - MAZE Bank •[/color]
+Style 1: Hakovanje
+Style 2: Dinamit
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Pljaèke - CLOUDS Bank •[/color]
+Style 1: Drill
+Style 2: Dinamit
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Pljaèke - Federal Reserve of United States •[/color]
+Po prvi put u SAMPu imate i ovakav tip banke i pljaèke.
+Style: Prvo radite hakovanje lifta kako bi mogli uæi u sef, drugo radite C4 da razvalite vrata od 4 sefa(potrebno vam je èetiri "C4" eksploziva).
+Pljaèka traje 40min, može se obaviti svaka 24h.
+Ima 4 sefa, u svakom 500.000$ + 1.000g zlata + 2.500g srebra.
+Max: 2.000.000$ + 4.000g zlata + 10.000g srebra.
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Pljaèke - Zlatara •[/color]
+Style 1: Dron
+Style 2: Dinamit
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Pljaèke - Galerija •[/color]
+Style 1: Gel("topi" staklo)
+Style 2: Dinamit
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Pljaèke - Ostalo •[/color]
+Style: Alat, da obijete vrata/sef.
+[color=#1A94E6][url=]Bankomat - Klik[/url][/color]
+[color=#1A94E6][url=]Zlatomat - Klik[/url][/color]
+[color=#1A94E6][url=]Trafika - Klik[/url][/color]
+[color=#1A94E6][url=]Market- Klik[/url][/color]
+
+[hr]
+
+[i]Na serveru možete posjedovati: 
+- 4 vozila, kuæu, stan, vikendicu, firmu, biznis, trafiku, imanje, hangar, bunker, night club, skladište, bilbord, food machine. -[/i]
+
+[color=#1A94E6]• Vozila •[/color]
+Ukoliko vozilo dostigne neaktivnost tj. vi ne uðete na server 500h vaše vozilo se automatski prodaje.
+Vozilo kupujete putem laptopa, a možete ga kupiti i na pijaci polovnih vozila ukoliko je neko prodao i od drugog igraèa.
+Vozilo možete prodati na autopijacu i dobiti æe te 3/4 od cijene vozila.
+U gepek vozila možete spremiti drogu, materijale, oružje i novac.
+Na poèetku dobijate 2 slota za vozila, ostala 2 su donatorska.
+[img]http://i.imgur.com/McmO2tA.png?1[/img]
+[img]http://i.imgur.com/1asJqJd.png?1[/img]
+[img]http://i.imgur.com/DsxXWKq.png?1[/img]
+
+
+
+[color=#1A94E6]• Kuæa •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Stan •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Vikendica •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Firma •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Biznis •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Trafika •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Imanje •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Hangar •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Bunker •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Night Club •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Skladište •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Bilbord •[/color]
+[youtube][/youtube]
+
+
+[color=#1A94E6]• Food Machine •[/color]
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Poslovi •[/color]
+- #1: Naziv -
+[youtube][/youtube]
+- #2: Bolnièar -
+[youtube]https://www.youtube.com/watch?v=8K29NubOmSU[/youtube]
+- #3: Naziv -
+[youtube][/youtube]
+- #4: Naziv -
+[youtube][/youtube]
+- #5: Naziv -
+[youtube][/youtube]
+- #6: Naziv -
+[youtube][/youtube]
+- #7: Naziv -
+[youtube][/youtube]
+- #8: Naziv -
+[youtube][/youtube]
+- #9: Naziv -
+[youtube][/youtube]
+- #10: Naziv -
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Eventi & Nadogradnja •[/color]
+Svakih 15 minuta server automatski pokreæe 1 od 7 unikatnih evenata, a Staff može takoðer pokrenuti ili zaustaviti event.
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Gun Shop •[/color]
+Kada želite kupiti oružje, izaberete koje želite i uzimate po municiji.
+Cijena oružja æe iznostiti u zavisnosti koliko ste municije uzeli.
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Iznajmljivanje vozila •[/color]
+Kada iznajmite vozilo, od tog mjesta iznajmljivanja firma koja je u radiusu od 500m dobija novac, 
+tako da 1 firma æe imati 3-4 svoja mjesta za rent.
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Torba i dodaci •[/color]
+Vašu torbu kupujete u sport life radnji ili nekoj prodavnici odjeæe.
+U torbi možete imati: 5 oružja, drogu, materijale, hranu/piæe(šljive, kruške, jabuke, hleb, pizza, sendviè, cola, mleko),
+pancir, zavoj, med-kit, kontrolisanje objekata/dodataka (attachments) i još mnogo stvari kao što je laptop, maksimalni kapacitet torbe je 30 stvari.
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Dron •[/color]
+Sa dronom æete moæi letjeti po Los Santosu ili po mjestu gdje ste ga aktivirali u radiusu u 500m.
+Dron æete moæi kupiti za 100.000$.
+Dron ima svoju bateriju, takoðer kad prestanete koristiti dron dobijate cooldown na 10 minuta, što znaèi da ga ne možete koristiti to vrijeme.
+Ukoliko se odete 500m od lokacije gdje ste aktivirali dron on æe da padne i dobiti æete cooldown.
+Komande: /dron
+[color=#FF0000]*** PREZENTACIJA GDJE JE PRVOBITNO URAÐEN OVAJ SISTEM ONDA JE PREBAÈEN NA ABYSS I DORAÐEN ***[/color]
+[youtube]https://www.youtube.com/watch?v=U7g_r20VYZo[/youtube]
+
+[hr]
+
+[color=#1A94E6]• Droga •[/color]
+Supstance možete dobiti tako što æete kupovati sjemenke kod dilera pa saditi.
+Takoðer drogu možete prodati/dati igraèu: /inventory>Klik na drogu>Daj igracu/Prodaj igracu.
+Droga se dijeli po kvaliteti; civili, bande i mafije prave loš kvalitet droge koja daje 25% po jednom korišæenju
+dok karteli i premium orge mogu zaposliti 4 radnika u svom lab-u te upgradeovati iste za 3 levela, svaki upgrade poveæava za 
+25% kvalitet i brzinu rada što znaèi da možete upgradeovati na level 4 radnike kako bi proizvodili najkvalitetniju drogu koja daje 
+100% armora po jednom korišæenju. 
+Kupovina 1 radnika: 200.000$ - Upgrade radnika: 50.000$
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Mafias & Cartels & Premium Factions •[/color]
+Veæ smo objasnili šta mogu samo karteli ali uz to karteli, mafije i premium orge mogu zaposliti još 4 radnika u drugom postrojenju koji proizvode
+materijale za oružja. Svakom radniku treba 12 sati da proizvede 2000 materijala, svakim upgrade-om vrijeme se smanjuje za 2h, a materijali za 500
+što znaèi da kada upgrade-ate na najveæi level za 6 sati vi od jednog radnika dobijete 3500 materijala.
+Kupovina 1 radnika: 150.000$ - Upgrade radnika: 50.000$
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Kupovina vozila za organizacije •[/color]
+Svaka organizacija mora kupovati vozila za svoju organizaciju.
+Na poèetku bande, mafije i karteli imaju 5 vozila i mogu kupiti još 5 te mogu uzeti još 5 slotova i uzeti još 5 vozila po želji,
+dok premium fakcije dobijaju 10 vozila i mogu još 5 slotova uzeti, no objasniti æemo i što su premium fakcije.
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Premium Factions •[/color]
+Sama rijeè PREMIUM sve govori, na serveru postoje 2 ovakve organizacije te da bi dobili jednu od njih potrebno je skupiti 15 èlanova.
+Sada æemo nabrojati što mogu ove premium fakcije.
+
+- Street Racers ~ Vice Lords -
+[li]Izazvati na trku i birati lokacije koje su napravljenje u skripti.[/li]
+[li]Mogu dilovati drogu radeæi illegalne poslove.[/li]
+[li]Imaju svoju radionicu za tuniranje.[/li]
+[li]Sva vozila u bazi su im permanent full tuned koja dobiju na poèetku, ostale sami tuniraju.[/li]
+
+- Bikers ~ Laffing Devils -
+[li]Izazvati na trku i birati lokacije koje su napravljenje u skripti.[/li]
+[li]Mogu dilovati drogu radeæi illegalne poslove.[/li]
+[li]Njihovi radnici u lab-ovima još brže prizvode drogu.[/li]
+[li]Imaju poseban tuning na motorima.[/li]
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• War (Rat organizacija) •[/color]
+War možete pokrenuti tako što æe te organizovati war, pozvati drugog lidera, postaviti broj max igraèa za war, i unijeti ulog te birati oružja.
+War traje 10 minuta, i organizacija koja ima više ubistava je pobijedila i dobija u sef organizacije ulog protivnièke organizacije.
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Teritorije & Dileri •[/color]
+Teritorije možete pronaæi po cijelom Los Santosu koje možete zauzimati od drugih organizacija.
+Svaka teritorija ima svog dilera, više teritorija == više dilera == veæa zarada jer moraju kupovati od vaših dilera.
+Teritorije može zauzimati svaka ilegalna organizacija.
+[youtube][/youtube]
+
+
+
+[color=#1A94E6]• Graffiti •[/color]
+Švrljanjem grafita za vašu organizaciju poveæavate uticaj u gradu te od svakog graffita svakog sata dobijate po 500$ u sef.
+Svaki graffit se može svakih 15min ponovo sprejati.
+Graffite mogu samo raditi bande.
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• DeathMatch (Zona) •[/color]
+DeathMatch zona je napravljena kako bi se smanjio DM na serveru.
+U DM zonu mogu svi koji imaju 10 ili veæi level.
+Sistem je raðeni po CS:GO igri.
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Oružje laser •[/color]
+O ovom sistemu se nema mnogo za prièati.
+Sistem napravljen za organe gonjenja da mogu postavljati laser na oružje i koristiti ga uvijek.
+Takoðer ukoliko ste VIP/Promoter možete i vi postaviti laser na oružje bez obzira što niste u PD.
+
+[hr]
+
+[color=#1A94E6]• Regeneracija •[/color]
+Sistem regeneracije je napravljen po igrici GTA 5.
+Regenerisanje se obavlja kada imate manje od 50 HP-a i regenerira se do 50 HP-a.
+Svake sekunde dobijate po 0.7 HP-a ukoliko ste obièni igraè, ukoliko ste VIP/Promoter onda dobijate po 1.4 HP-a.
+[img]http://i.imgur.com/lD93skG.png?1[/img]
+[img]http://i.imgur.com/FrTnk0N.png?1[/img]
+
+[hr]
+
+[color=#1A94E6]• Zavoj •[/color]
+Zavoj možete kupiti u Apoteci.
+Možete imati maksimalno 3 zavoja kod sebe.
+Kada postavite zavoj dobijate nazad 25 HP-a (/torba>(klik)Zavoj>Koristi).
+Zavoj možete koristiti svakih 30 sekundi, a postavljate ga 5 sekundi.
+[img]http://i.imgur.com/RsMsW2X.png?1[/img]
+
+[hr]
+
+[color=#1A94E6]• Mine i C4 •[/color]
+Mine kupujete od dilera po ulicama, postavljate na (/mina miniraj).
+C4 postavljate samo na PRIVATNA vozila, te ukoliko igraè upali vozilo, a na njemu je mina odma æe poginuti.
+Takoðer taj C4 koristitite za banku Federalnih Rezervi.
+[youtube][/youtube]
+
+[hr]
+
+[color=#1A94E6]• Smajliæi •[/color]
+Ovo se prvi put vidi na SAMP sceni te ste vjerovatno u fazonu wtf? xD
+Došao sam na ideju da umjesto kada igraè napiše u chatu npr ;) da ne izbaci to što je napisao veæ ovo što možete vidjeti na slici.
+(Svaki igraè koji bude u radiusu od 20 metara æe dobiti ovu "poruku".)
+Trenutni smajliæi: xD, ;), :D, :), 8) ili 8D, <3, ;D
+Ukoliko imate prijedlog za neki smajliæ slobodno napišite, po moguænosti i poruku (što bi izbacivalo igraèima).[/b]
+
+
+
+[table][tr][td][hr][size=15pt][color=#1A94E6][glow=black,2,300][b]Mape[/b][/glow][/color][/size][hr][/td][/tr][/table]
+
+[youtube][/youtube]
+
+
+
+[table][tr][td][hr][size=15pt][color=#1A94E6][glow=black,2,300][b]- Kraj -[/b][/glow][/color][/size][hr][/td][/tr][/table]
+
+Kao što vidite, naš gamemode je pun unikatnosti na kojeg je potrošeno mnogo vremena, nadamo se da æete nas podržati. - "Muma" a.k.a "X"!
+
+[IMG]http://i.pics.rs/MILvB[/IMG][/center]

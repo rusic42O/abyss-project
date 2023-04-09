@@ -1,0 +1,14 @@
+Pirotehnicar:
+	- Dostavljac baruta
+	- Tester produkata
+	- Proizvodjac petardi i raketa
+
+Drvosjeca:
+	- Dostavljac drveca
+	- Prevoznik drveca
+	- Cuvar sume
+
+Mehanicar:
+	- Lakiranje
+	- Popravljanje motora
+	- Ima one kamione ako ga ko pozove da radi tjt xd

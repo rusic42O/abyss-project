@@ -1,0 +1,162 @@
+//Map Exported with Texture Studio By: [uL]Pottus////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////and Crayder////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Map Information////////////////////////////////////////////////////////////////////////////////////////////////
+/*
+	Exported on "2018-03-09 23:05:13" by "Hulk_Cardoso"
+	Created by "Hulk_Cardoso"
+*/
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//Remove Buildings///////////////////////////////////////////////////////////////////////////////////////////////
+RemoveBuildingForPlayer(playerid, 4003, 1481.078, -1747.031, 33.523, 0.250);
+RemoveBuildingForPlayer(playerid, 3980, 1481.189, -1785.069, 22.382, 0.250);
+RemoveBuildingForPlayer(playerid, 4044, 1481.189, -1785.069, 22.382, 0.250);
+RemoveBuildingForPlayer(playerid, 4002, 1479.869, -1790.400, 56.023, 0.250);
+RemoveBuildingForPlayer(playerid, 4024, 1479.869, -1790.400, 56.023, 0.250);
+RemoveBuildingForPlayer(playerid, 3997, 1479.339, -1802.290, 12.546, 0.250);
+RemoveBuildingForPlayer(playerid, 4045, 1479.339, -1802.290, 12.546, 0.250);
+RemoveBuildingForPlayer(playerid, 713, 1407.199, -1749.310, 13.093, 0.250);
+RemoveBuildingForPlayer(playerid, 700, 1553.699, -1747.939, 13.406, 0.250);
+
+//Objects////////////////////////////////////////////////////////////////////////////////////////////////////////
+new opstinaext;
+opstinaext = CreateDynamicObject(18981, 1485.436035, -1751.899047, 19.895090, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+opstinaext = CreateDynamicObject(18981, 1479.011596, -1751.896972, 19.615083, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+opstinaext = CreateDynamicObject(19377, 1492.611206, -1756.008422, 24.336000, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19377, 1473.299560, -1756.008422, 24.336000, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19377, 1482.970947, -1756.008422, 24.336000, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19461, 1491.009521, -1751.433593, 26.133199, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+opstinaext = CreateDynamicObject(19461, 1472.624877, -1751.433593, 26.133199, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+opstinaext = CreateDynamicObject(19461, 1481.919067, -1751.433593, 26.133199, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+opstinaext = CreateDynamicObject(19378, 1491.799682, -1756.148437, 17.500600, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19378, 1473.061035, -1756.148437, 17.906639, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19378, 1482.843994, -1756.148437, 17.500600, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19378, 1473.061035, -1756.148437, 17.500600, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19378, 1482.843994, -1756.148437, 17.906600, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19378, 1491.799682, -1756.148437, 17.906600, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19089, 1495.574951, -1751.370727, 18.249099, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16640, "a51", "stormdrain7", 0x00000000);
+opstinaext = CreateDynamicObject(19089, 1474.990844, -1751.370727, 18.249099, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16640, "a51", "stormdrain7", 0x00000000);
+opstinaext = CreateDynamicObject(19089, 1482.282836, -1751.370727, 18.249099, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16640, "a51", "stormdrain7", 0x00000000);
+opstinaext = CreateDynamicObject(19089, 1489.330688, -1751.370727, 18.249099, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16640, "a51", "stormdrain7", 0x00000000);
+opstinaext = CreateDynamicObject(19379, 1491.140625, -1756.148437, 18.564199, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19379, 1473.185791, -1756.148437, 15.308650, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19379, 1483.666381, -1756.148437, 18.564199, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19381, 1490.870361, -1751.470092, 13.339500, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+opstinaext = CreateDynamicObject(19381, 1472.705200, -1751.470092, 13.339500, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+opstinaext = CreateDynamicObject(19381, 1481.451171, -1751.470092, 13.339500, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+opstinaext = CreateDynamicObject(19450, 1480.618774, -1756.163085, 17.329799, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19450, 1481.110717, -1756.163085, 15.660499, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19450, 1479.219238, -1756.163085, 15.660499, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19450, 1483.119750, -1756.163085, 15.660499, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19450, 1481.971923, -1756.163085, 17.329799, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19449, 1482.154174, -1751.446655, 12.465100, 90.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19449, 1480.294189, -1751.438232, 12.465100, 90.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18835, "mickytextures", "whiteforletters", 0x00000000);
+opstinaext = CreateDynamicObject(19379, 1473.185791, -1756.148437, 18.564220, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19379, 1489.303100, -1756.148437, 15.308600, 0.000000, 90.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 18996, "mattextures", "sampblack", 0x00000000);
+opstinaext = CreateDynamicObject(19433, 1492.198852, -1751.416748, 21.299800, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+opstinaext = CreateDynamicObject(19433, 1470.105590, -1751.416748, 21.299800, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+opstinaext = CreateDynamicObject(19433, 1475.659790, -1751.416748, 21.299800, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+opstinaext = CreateDynamicObject(19433, 1481.133300, -1751.416748, 21.299800, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+opstinaext = CreateDynamicObject(19433, 1486.608886, -1751.416748, 21.299800, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+opstinaext = CreateDynamicObject(639, 1496.128540, -1739.042114, 11.598299, 0.000000, 17.000000, -90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+opstinaext = CreateDynamicObject(639, 1467.163452, -1739.042114, 11.598299, 0.000000, 17.000000, -90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+opstinaext = CreateDynamicObject(639, 1472.904052, -1739.042114, 11.598299, 0.000000, 17.000000, -90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+opstinaext = CreateDynamicObject(639, 1478.867919, -1739.042114, 11.598299, 0.000000, 17.000000, -90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+opstinaext = CreateDynamicObject(639, 1484.162719, -1739.042114, 11.598299, 0.000000, 17.000000, -90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+opstinaext = CreateDynamicObject(639, 1490.119995, -1739.042114, 11.598299, 0.000000, 17.000000, -90.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 4992, "airportdetail", "kb_ivy_256", 0x00000000);
+opstinaext = CreateDynamicObject(737, 1481.265991, -1741.665527, 12.887390, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 1, -1, "none", "none", 0xFF006600);
+SetDynamicObjectMaterial(opstinaext, 2, 14652, "ab_trukstpa", "CJ_WOOD6", 0x00000000);
+opstinaext = CreateDynamicObject(737, 1495.308105, -1741.495971, 12.887390, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 1, -1, "none", "none", 0xFF006600);
+SetDynamicObjectMaterial(opstinaext, 2, 14652, "ab_trukstpa", "CJ_WOOD6", 0x00000000);
+opstinaext = CreateDynamicObject(737, 1468.068237, -1741.514160, 12.887390, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 14652, "ab_trukstpa", "CJ_WOOD6", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 1, -1, "none", "none", 0xFF006600);
+SetDynamicObjectMaterial(opstinaext, 2, 14652, "ab_trukstpa", "CJ_WOOD6", 0x00000000);
+opstinaext = CreateDynamicObject(3980, 1481.189941, -1785.069946, 22.382799, 0.000000, 0.000000, -0.000009, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 1, 3820, "boxhses_sfsx", "ws_mixedbrick", 0xFF666666);
+SetDynamicObjectMaterial(opstinaext, 3, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 4, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 5, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 6, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 7, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 8, 18835, "mickytextures", "whiteforletters", 0xFF666666);
+SetDynamicObjectMaterial(opstinaext, 9, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+SetDynamicObjectMaterial(opstinaext, 10, 18835, "mickytextures", "whiteforletters", 0xFF666666);
+SetDynamicObjectMaterial(opstinaext, 11, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+opstinaext = CreateDynamicObject(4002, 1479.869995, -1790.400024, 56.023399, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 1, 16639, "a51_labs", "ws_trainstationwin1", 0xFF666666);
+SetDynamicObjectMaterial(opstinaext, 2, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 3, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 4, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 5, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+opstinaext = CreateDynamicObject(3997, 1479.339965, -1802.290039, 12.546895, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 0, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 1, 10765, "airportgnd_sfse", "desgreengrass", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 2, 10806, "airfence_sfse", "ws_oldpainted", 0xFF666666);
+SetDynamicObjectMaterial(opstinaext, 3, 10765, "airportgnd_sfse", "desgreengrass", 0x00000000);
+opstinaext = CreateDynamicObject(7914, 1481.446044, -1751.247436, 29.482799, 0.000000, 0.000000, -179.999969, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterialText(opstinaext, 0, "{FFFFFF}CITY HALL", 130, "Ariel", 100, 0, 0x00000000, 0x00000000, 1);
+opstinaext = CreateDynamicObject(10398, 1534.946533, -1760.650268, -6.644133, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 5, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 6, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+opstinaext = CreateDynamicObject(10398, 1387.046386, -1760.650268, -6.644133, 0.000000, 0.000000, 0.000000, -1, -1, -1, 300.00, 300.00); 
+SetDynamicObjectMaterial(opstinaext, 5, 3820, "boxhses_sfsx", "ws_mixedbrick", 0x00000000);
+SetDynamicObjectMaterial(opstinaext, 6, 14581, "ab_mafiasuitea", "cof_wood2", 0x00000000);
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+opstinaext = CreateDynamicObject(16132, 1485.080078, -1744.231689, 5.013299, 0.000000, 20.000000, -90.000000, -1, -1, -1, 300.00, 300.00); 
+opstinaext = CreateDynamicObject(1223, 1488.456298, -1741.909301, 12.360389, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
+opstinaext = CreateDynamicObject(1223, 1474.761352, -1741.822998, 12.360389, 0.000000, 0.000000, 90.000000, -1, -1, -1, 300.00, 300.00); 
