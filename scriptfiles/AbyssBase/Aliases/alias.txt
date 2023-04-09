@@ -1,0 +1,2 @@
+127.0.0.1=.X., Muma_Maddox
+192.168.0.2=Bunta_Fujiwara

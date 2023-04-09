@@ -1,0 +1,623 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:29:25] 
+[23:29:25] Server Plugins
+[23:29:25] --------------
+[23:29:25]  Loading plugin: crashdetect
+[23:29:25]   CrashDetect v4.18.1 is OK.
+[23:29:25]   Loaded.
+[23:29:25]  Loading plugin: pawncmd
+[23:29:25] Pawn.CMD plugin v3.1.2 by urShadow loaded
+[23:29:25]   Loaded.
+[23:29:25]  Loading plugin: pawnraknet
+[23:29:25] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[23:29:25]   Loaded.
+[23:29:25]  Loading plugin: mysql
+[23:29:26]  >> plugin.mysql: R41-4 successfully loaded.
+[23:29:26]   Loaded.
+[23:29:26]  Loading plugin: log-plugin
+[23:29:26]  >> plugin.log: v0.4 successfully loaded.
+[23:29:26]   Loaded.
+[23:29:26]  Loading plugin: streamer
+[23:29:26] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[23:29:26]   Loaded.
+[23:29:26]  Loading plugin: sscanf
+[23:29:26] 
+
+[23:29:26]  ===============================
+
+[23:29:26]       sscanf plugin loaded.     
+
+[23:29:26]          Version:  2.8.2        
+
+[23:29:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:29:26]  ===============================
+
+[23:29:26]   Loaded.
+[23:29:26]  Loading plugin: nativechecker
+[23:29:26]   Loaded.
+[23:29:26]  Loading plugin: SKY
+[23:29:26]   Loaded.
+[23:29:26]  Loaded 9 plugins.
+
+[23:29:26] 
+[23:29:26] Filterscripts
+[23:29:26] ---------------
+[23:29:26]   Loaded 0 filterscripts.
+
+[23:29:26]    Error: Function not registered: 'FreezeSyncData'
+[23:29:26]    Error: Function not registered: 'SetFakeFacingAngle'
+[23:29:26]    Error: Function not registered: 'SendLastSyncData'
+[23:29:26]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[23:29:26]    Error: Function not registered: 'SetKnifeSync'
+[23:29:26]    Error: Function not registered: 'SetFakeHealth'
+[23:29:26]    Error: Function not registered: 'SetFakeArmour'
+[23:29:26]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[23:29:26]    Error: Function not registered: 'SpawnPlayerForWorld'
+[23:29:26]    Error: Function not registered: 'SetDisableSyncBugs'
+[23:29:26]  
+[23:29:26]  
+[23:29:26]  
+[23:29:26]  ======================================= 
+[23:29:26]  |                                     | 
+[23:29:26]  |        YSI version 3.09.0684        | 
+[23:29:26]  |        By Alex "Y_Less" Cole        | 
+[23:29:26]  |                                     | 
+[23:29:26]  ======================================= 
+[23:29:26]  
+[23:29:26]  
+[23:29:26]  
+[23:29:28] > mSQL // Uspesna konekcija: root@localhost | project_abyss
+[23:29:28] ====================================================
+> Abyss Script Version 1.0.0
+> Scripters: Muma & Lanmi
+> Mappers: Muma
+> Gamemode succesfully started for 2031ms.
+====================================================
+[23:29:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:43:52] 
+[00:43:52] Server Plugins
+[00:43:52] --------------
+[00:43:52]  Loading plugin: crashdetect
+[00:43:52]   CrashDetect v4.18.1 is OK.
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: pawncmd
+[00:43:52] Pawn.CMD plugin v3.1.2 by urShadow loaded
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: pawnraknet
+[00:43:52] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: mysql
+[00:43:52]  >> plugin.mysql: R41-4 successfully loaded.
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: log-plugin
+[00:43:52]  >> plugin.log: v0.4 successfully loaded.
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: streamer
+[00:43:52] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: sscanf
+[00:43:52] 
+
+[00:43:52]  ===============================
+
+[00:43:52]       sscanf plugin loaded.     
+
+[00:43:52]          Version:  2.8.2        
+
+[00:43:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:43:52]  ===============================
+
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: nativechecker
+[00:43:52]   Loaded.
+[00:43:52]  Loading plugin: SKY
+[00:43:53]   Loaded.
+[00:43:53]  Loaded 9 plugins.
+
+[00:43:53] 
+[00:43:53] Filterscripts
+[00:43:53] ---------------
+[00:43:53]   Loaded 0 filterscripts.
+
+[00:43:53]    Error: Function not registered: 'FreezeSyncData'
+[00:43:53]    Error: Function not registered: 'SetFakeFacingAngle'
+[00:43:53]    Error: Function not registered: 'SendLastSyncData'
+[00:43:53]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[00:43:53]    Error: Function not registered: 'SetKnifeSync'
+[00:43:53]    Error: Function not registered: 'SetFakeHealth'
+[00:43:53]    Error: Function not registered: 'SetFakeArmour'
+[00:43:53]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[00:43:53]    Error: Function not registered: 'SpawnPlayerForWorld'
+[00:43:53]    Error: Function not registered: 'SetDisableSyncBugs'
+[00:43:53]  
+[00:43:53]  
+[00:43:53]  
+[00:43:53]  ======================================= 
+[00:43:53]  |                                     | 
+[00:43:53]  |        YSI version 3.09.0684        | 
+[00:43:53]  |        By Alex "Y_Less" Cole        | 
+[00:43:53]  |                                     | 
+[00:43:53]  ======================================= 
+[00:43:53]  
+[00:43:53]  
+[00:43:53]  
+[00:43:53] > mSQL // Uspesna konekcija: root@localhost | project_abyss
+[00:43:53] ====================================================
+> Abyss Script Version 1.0.0
+> Scripters: Muma & Lanmi
+> Mappers: Muma
+> Gamemode succesfully started for 50ms.
+====================================================
+[00:43:53] Number of vehicle models: 0
+[00:45:12] [connection] 192.168.0.2:54999 requests connection cookie.
+[00:45:13] [connection] incoming connection: 192.168.0.2:54999 id: 0
+[00:45:13] [join] Bunta_Fujiwara has joined the server (0:192.168.0.2)
+[00:45:28] [part] Bunta_Fujiwara has left the server (0:1)
+[00:45:28] [connection] incoming connection: 192.168.0.2:60665 id: 0
+[00:45:29] [join] Bunta_Fujiwara has joined the server (0:192.168.0.2)
+[00:54:36] [part] Bunta_Fujiwara has left the server (0:1)
+[00:54:36] [connection] 192.168.0.2:57327 requests connection cookie.
+[00:54:37] [connection] incoming connection: 192.168.0.2:57327 id: 0
+[00:54:38] [join] Bunta_Fujiwara has joined the server (0:192.168.0.2)
+[00:55:59] [part] Bunta_Fujiwara has left the server (0:1)
+[00:55:59] [connection] incoming connection: 192.168.0.2:59349 id: 0
+[00:56:24] [connection] incoming connection: 192.168.0.2:57260 id: 0
+[00:56:25] [join] Bunta_Fujiwara has joined the server (0:192.168.0.2)
+[00:56:25] [part] Bunta_Fujiwara has left the server (0:2)
+Console input: reloadbans
+[00:57:37] [connection] incoming connection: 192.168.0.2:56220 id: 0
+[00:57:37] [join] Bunta_Fujiwara has joined the server (0:192.168.0.2)
+[01:06:15] RCON (In-Game): Player #0 (Bunta_Fujiwara) has logged in.
+[01:08:11] 1 id vozila
+[01:08:11] 1 sqlid
+[01:08:11] 3 ID UPDATE vozila 
+[01:15:41] [part] Bunta_Fujiwara has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:05:05] 
+[18:05:05] Server Plugins
+[18:05:05] --------------
+[18:05:05]  Loading plugin: crashdetect
+[18:05:05]   CrashDetect v4.18.1 is OK.
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: pawncmd
+[18:05:05] Pawn.CMD plugin v3.1.2 by urShadow loaded
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: pawnraknet
+[18:05:05] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: mysql
+[18:05:05]  >> plugin.mysql: R41-4 successfully loaded.
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: log-plugin
+[18:05:05]  >> plugin.log: v0.4 successfully loaded.
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: streamer
+[18:05:05] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: sscanf
+[18:05:05] 
+
+[18:05:05]  ===============================
+
+[18:05:05]       sscanf plugin loaded.     
+
+[18:05:05]          Version:  2.8.2        
+
+[18:05:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:05:05]  ===============================
+
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: nativechecker
+[18:05:05]   Loaded.
+[18:05:05]  Loading plugin: SKY
+[18:05:05]   Loaded.
+[18:05:05]  Loaded 9 plugins.
+
+[18:05:05] 
+[18:05:05] Filterscripts
+[18:05:05] ---------------
+[18:05:05]   Loaded 0 filterscripts.
+
+[18:05:06]    Error: Function not registered: 'FreezeSyncData'
+[18:05:06]    Error: Function not registered: 'SetFakeFacingAngle'
+[18:05:06]    Error: Function not registered: 'SendLastSyncData'
+[18:05:06]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[18:05:06]    Error: Function not registered: 'SetKnifeSync'
+[18:05:06]    Error: Function not registered: 'SetFakeHealth'
+[18:05:06]    Error: Function not registered: 'SetFakeArmour'
+[18:05:06]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[18:05:06]    Error: Function not registered: 'SpawnPlayerForWorld'
+[18:05:06]    Error: Function not registered: 'SetDisableSyncBugs'
+[18:05:06]  
+[18:05:06]  
+[18:05:06]  
+[18:05:06]  ======================================= 
+[18:05:06]  |                                     | 
+[18:05:06]  |        YSI version 3.09.0684        | 
+[18:05:06]  |        By Alex "Y_Less" Cole        | 
+[18:05:06]  |                                     | 
+[18:05:06]  ======================================= 
+[18:05:06]  
+[18:05:06]  
+[18:05:06]  
+[18:05:22] > mSQL // Neuspesna konekcija: root@localhost | project_abyss
+[18:05:22] ====================================================
+> Abyss Script Version 1.0.0
+> Scripters: Muma & Lanmi
+> Mappers: Muma
+> Gamemode succesfully started for 16508ms.
+====================================================
+[18:05:22] Number of vehicle models: 0
+[18:05:22] --- Server Shutting Down.
+[18:05:22] Pawn.CMD plugin v3.1.2 by urShadow unloaded
+[18:05:22] Pawn.RakNet plugin v1.2.0 by urShadow unloaded
+[18:05:22] plugin.mysql: Unloading plugin...
+[18:05:22] plugin.mysql: Plugin unloaded.
+[18:05:22] plugin.log: Plugin unloaded.
+[18:05:22] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[18:05:22] 
+
+[18:05:22]  ===============================
+
+[18:05:22]      sscanf plugin unloaded.    
+
+[18:05:22]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:05:43] 
+[18:05:43] Server Plugins
+[18:05:43] --------------
+[18:05:43]  Loading plugin: crashdetect
+[18:05:43]   CrashDetect v4.18.1 is OK.
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: pawncmd
+[18:05:43] Pawn.CMD plugin v3.1.2 by urShadow loaded
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: pawnraknet
+[18:05:43] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: mysql
+[18:05:43]  >> plugin.mysql: R41-4 successfully loaded.
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: log-plugin
+[18:05:43]  >> plugin.log: v0.4 successfully loaded.
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: streamer
+[18:05:43] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: sscanf
+[18:05:43] 
+
+[18:05:43]  ===============================
+
+[18:05:43]       sscanf plugin loaded.     
+
+[18:05:43]          Version:  2.8.2        
+
+[18:05:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:05:43]  ===============================
+
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: nativechecker
+[18:05:43]   Loaded.
+[18:05:43]  Loading plugin: SKY
+[18:05:44]   Loaded.
+[18:05:44]  Loaded 9 plugins.
+
+[18:05:44] 
+[18:05:44] Filterscripts
+[18:05:44] ---------------
+[18:05:44]   Loaded 0 filterscripts.
+
+[18:05:44]    Error: Function not registered: 'FreezeSyncData'
+[18:05:44]    Error: Function not registered: 'SetFakeFacingAngle'
+[18:05:44]    Error: Function not registered: 'SendLastSyncData'
+[18:05:44]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[18:05:44]    Error: Function not registered: 'SetKnifeSync'
+[18:05:44]    Error: Function not registered: 'SetFakeHealth'
+[18:05:44]    Error: Function not registered: 'SetFakeArmour'
+[18:05:44]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[18:05:44]    Error: Function not registered: 'SpawnPlayerForWorld'
+[18:05:44]    Error: Function not registered: 'SetDisableSyncBugs'
+[18:05:44]  
+[18:05:44]  
+[18:05:44]  
+[18:05:44]  ======================================= 
+[18:05:44]  |                                     | 
+[18:05:44]  |        YSI version 3.09.0684        | 
+[18:05:44]  |        By Alex "Y_Less" Cole        | 
+[18:05:44]  |                                     | 
+[18:05:44]  ======================================= 
+[18:05:44]  
+[18:05:44]  
+[18:05:44]  
+[18:06:01] > mSQL // Neuspesna konekcija: root@localhost | project_abyss
+[18:06:01] ====================================================
+> Abyss Script Version 1.0.0
+> Scripters: Muma & Lanmi
+> Mappers: Muma
+> Gamemode succesfully started for 16446ms.
+====================================================
+[18:06:01] Number of vehicle models: 0
+[18:06:01] --- Server Shutting Down.
+[18:06:01] Pawn.CMD plugin v3.1.2 by urShadow unloaded
+[18:06:01] Pawn.RakNet plugin v1.2.0 by urShadow unloaded
+[18:06:01] plugin.mysql: Unloading plugin...
+[18:06:01] plugin.mysql: Plugin unloaded.
+[18:06:01] plugin.log: Plugin unloaded.
+[18:06:01] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[18:06:01] 
+
+[18:06:01]  ===============================
+
+[18:06:01]      sscanf plugin unloaded.    
+
+[18:06:01]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:06:45] 
+[18:06:45] Server Plugins
+[18:06:45] --------------
+[18:06:45]  Loading plugin: crashdetect
+[18:06:45]   CrashDetect v4.18.1 is OK.
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: pawncmd
+[18:06:45] Pawn.CMD plugin v3.1.2 by urShadow loaded
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: pawnraknet
+[18:06:45] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: mysql
+[18:06:45]  >> plugin.mysql: R41-4 successfully loaded.
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: log-plugin
+[18:06:45]  >> plugin.log: v0.4 successfully loaded.
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: streamer
+[18:06:45] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: sscanf
+[18:06:45] 
+
+[18:06:45]  ===============================
+
+[18:06:45]       sscanf plugin loaded.     
+
+[18:06:45]          Version:  2.8.2        
+
+[18:06:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:06:45]  ===============================
+
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: nativechecker
+[18:06:45]   Loaded.
+[18:06:45]  Loading plugin: SKY
+[18:06:46]   Loaded.
+[18:06:46]  Loaded 9 plugins.
+
+[18:06:46] 
+[18:06:46] Filterscripts
+[18:06:46] ---------------
+[18:06:46]   Loaded 0 filterscripts.
+
+[18:06:46]    Error: Function not registered: 'FreezeSyncData'
+[18:06:46]    Error: Function not registered: 'SetFakeFacingAngle'
+[18:06:46]    Error: Function not registered: 'SendLastSyncData'
+[18:06:46]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[18:06:46]    Error: Function not registered: 'SetKnifeSync'
+[18:06:46]    Error: Function not registered: 'SetFakeHealth'
+[18:06:46]    Error: Function not registered: 'SetFakeArmour'
+[18:06:46]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[18:06:46]    Error: Function not registered: 'SpawnPlayerForWorld'
+[18:06:46]    Error: Function not registered: 'SetDisableSyncBugs'
+[18:06:46]  
+[18:06:46]  
+[18:06:46]  
+[18:06:46]  ======================================= 
+[18:06:46]  |                                     | 
+[18:06:46]  |        YSI version 3.09.0684        | 
+[18:06:46]  |        By Alex "Y_Less" Cole        | 
+[18:06:46]  |                                     | 
+[18:06:46]  ======================================= 
+[18:06:46]  
+[18:06:46]  
+[18:06:46]  
+[18:07:02] > mSQL // Neuspesna konekcija: root@localhost | project_abyss
+[18:07:02] ====================================================
+> Abyss Script Version 1.0.0
+> Scripters: Muma & Lanmi
+> Mappers: Muma
+> Gamemode succesfully started for 16417ms.
+====================================================
+[18:07:02] Number of vehicle models: 0
+[18:07:02] --- Server Shutting Down.
+[18:07:02] Pawn.CMD plugin v3.1.2 by urShadow unloaded
+[18:07:02] Pawn.RakNet plugin v1.2.0 by urShadow unloaded
+[18:07:02] plugin.mysql: Unloading plugin...
+[18:07:02] plugin.mysql: Plugin unloaded.
+[18:07:02] plugin.log: Plugin unloaded.
+[18:07:02] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[18:07:02] 
+
+[18:07:02]  ===============================
+
+[18:07:02]      sscanf plugin unloaded.    
+
+[18:07:02]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:35] 
+[18:08:35] Server Plugins
+[18:08:35] --------------
+[18:08:35]  Loading plugin: crashdetect
+[18:08:35]   CrashDetect v4.18.1 is OK.
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: pawncmd
+[18:08:35] Pawn.CMD plugin v3.1.2 by urShadow loaded
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: pawnraknet
+[18:08:35] Pawn.RakNet plugin v1.2.0 by urShadow loaded
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: mysql
+[18:08:35]  >> plugin.mysql: R41-4 successfully loaded.
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: log-plugin
+[18:08:35]  >> plugin.log: v0.4 successfully loaded.
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: streamer
+[18:08:35] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: sscanf
+[18:08:35] 
+
+[18:08:35]  ===============================
+
+[18:08:35]       sscanf plugin loaded.     
+
+[18:08:35]          Version:  2.8.2        
+
+[18:08:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:08:35]  ===============================
+
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: nativechecker
+[18:08:35]   Loaded.
+[18:08:35]  Loading plugin: SKY
+[18:08:35]   Loaded.
+[18:08:35]  Loaded 9 plugins.
+
+[18:08:35] 
+[18:08:35] Filterscripts
+[18:08:35] ---------------
+[18:08:35]   Loaded 0 filterscripts.
+
+[18:08:35]    Error: Function not registered: 'FreezeSyncData'
+[18:08:35]    Error: Function not registered: 'SetFakeFacingAngle'
+[18:08:35]    Error: Function not registered: 'SendLastSyncData'
+[18:08:35]    Error: Function not registered: 'ClearAnimationsForPlayer'
+[18:08:35]    Error: Function not registered: 'SetKnifeSync'
+[18:08:35]    Error: Function not registered: 'SetFakeHealth'
+[18:08:35]    Error: Function not registered: 'SetFakeArmour'
+[18:08:35]    Error: Function not registered: 'PlayerTextDrawSetPosition'
+[18:08:35]    Error: Function not registered: 'SpawnPlayerForWorld'
+[18:08:35]    Error: Function not registered: 'SetDisableSyncBugs'
+[18:08:35]  
+[18:08:35]  
+[18:08:35]  
+[18:08:35]  ======================================= 
+[18:08:35]  |                                     | 
+[18:08:35]  |        YSI version 3.09.0684        | 
+[18:08:35]  |        By Alex "Y_Less" Cole        | 
+[18:08:35]  |                                     | 
+[18:08:35]  ======================================= 
+[18:08:35]  
+[18:08:35]  
+[18:08:36]  
+[18:08:52] > mSQL // Neuspesna konekcija: root@localhost | project_abyss
+[18:08:52] ====================================================
+> Abyss Script Version 1.0.0
+> Scripters: Muma & Lanmi
+> Mappers: Muma
+> Gamemode succesfully started for 16410ms.
+====================================================
+[18:08:52] Number of vehicle models: 0
+[18:08:52] --- Server Shutting Down.
+[18:08:52] Pawn.CMD plugin v3.1.2 by urShadow unloaded
+[18:08:52] Pawn.RakNet plugin v1.2.0 by urShadow unloaded
+[18:08:52] plugin.mysql: Unloading plugin...
+[18:08:52] plugin.mysql: Plugin unloaded.
+[18:08:52] plugin.log: Plugin unloaded.
+[18:08:52] 
+
+*** Streamer Plugin v2.9.3 by Incognito unloaded ***
+
+[18:08:52] 
+
+[18:08:52]  ===============================
+
+[18:08:52]      sscanf plugin unloaded.    
+
+[18:08:52]  ===============================
+
